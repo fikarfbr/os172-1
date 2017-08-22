@@ -1,1 +1,2 @@
+riccafitriani,Home_FAILED,GitUser_OK,Repository_FAILED
 riccariccas,Home_FAILED,GitUser_FAILED,Repository_FAILED
