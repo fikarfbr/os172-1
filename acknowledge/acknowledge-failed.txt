@@ -1,3 +1,2 @@
 fizhazuharah,Home_OK,GitUser_OK,Repository_FAILED
-hanifaarrumaisha,Home_OK,GitUser_OK,Repository_FAILED
-riccariccas,Home_FAILED,GitUser_FAILED,Repository_FAILED
+hanifaarrumaisha7,Home_OK,GitUser_FAILED,Repository_FAILED
