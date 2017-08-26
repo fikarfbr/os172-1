@@ -1,2 +1,3 @@
 fizhazuharah,Home_OK,GitUser_OK,Repository_FAILED
+hanifa,Home_OK,GitUser_OK,Repository_FAILED
 riccariccas,Home_FAILED,GitUser_FAILED,Repository_FAILED
