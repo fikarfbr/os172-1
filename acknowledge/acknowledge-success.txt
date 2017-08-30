@@ -13,7 +13,6 @@ mfauzanf,Home_OK,GitUser_OK,Repository_OK
 muhazrisofyan,Home_OK,GitUser_OK,Repository_OK
 NaomiRiana,Home_OK,GitUser_OK,Repository_OK
 okusakun,Home_OK,GitUser_OK,Repository_OK
-ostutorial172,Home_OK,GitUser_OK,Repository_OK
 raiindhira,Home_OK,GitUser_OK,Repository_OK
 rehanhwr,Home_OK,GitUser_OK,Repository_OK
 ryannaufalp,Home_OK,GitUser_OK,Repository_OK
