@@ -4,6 +4,7 @@ alhamfebian,Home_OK,GitUser_OK,Repository_OK
 alputri,Home_OK,GitUser_OK,Repository_OK
 amiraluthfia,Home_OK,GitUser_OK,Repository_OK
 andrewsavero13,Home_OK,GitUser_OK,Repository_OK
+arielmikiabraham,Home_OK,GitUser_OK,Repository_OK
 atikahzh,Home_OK,GitUser_OK,Repository_OK
 bagussurya109,Home_OK,GitUser_OK,Repository_OK
 Daninsky,Home_OK,GitUser_OK,Repository_OK
@@ -15,6 +16,7 @@ FpVariel,Home_OK,GitUser_OK,Repository_OK
 fwrhine,Home_OK,GitUser_OK,Repository_OK
 ichlaffterlalu,Home_OK,GitUser_OK,Repository_OK
 ifdhalsuharmitan,Home_OK,GitUser_OK,Repository_OK
+megafahtia,Home_OK,GitUser_OK,Repository_OK
 mfauzanf,Home_OK,GitUser_OK,Repository_OK
 muhazrisofyan,Home_OK,GitUser_OK,Repository_OK
 nabilafakhirah,Home_OK,GitUser_OK,Repository_OK
@@ -23,8 +25,10 @@ okusakun,Home_OK,GitUser_OK,Repository_OK
 raiindhira,Home_OK,GitUser_OK,Repository_OK
 rehanhwr,Home_OK,GitUser_OK,Repository_OK
 ryannaufalp,Home_OK,GitUser_OK,Repository_OK
+rzieggy,Home_OK,GitUser_OK,Repository_OK
 spectrum71,Home_OK,GitUser_OK,Repository_OK
 swastinikanaima,Home_OK,GitUser_OK,Repository_OK
 vincentiusadityas,Home_OK,GitUser_OK,Repository_OK
+WildanFahmi,Home_OK,GitUser_OK,Repository_OK
 yurisasc,Home_OK,GitUser_OK,Repository_OK
 ZidaneZaffar,Home_OK,GitUser_OK,Repository_OK
