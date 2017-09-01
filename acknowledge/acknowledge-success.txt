@@ -1,8 +1,10 @@
 adrika-novrialdi,Home_OK,GitUser_OK,Repository_OK
 agasyan,Home_OK,GitUser_OK,Repository_OK
 alhamfebian,Home_OK,GitUser_OK,Repository_OK
+alifahsanilsatria,Home_OK,GitUser_OK,Repository_OK
 alputri,Home_OK,GitUser_OK,Repository_OK
 amiraluthfia,Home_OK,GitUser_OK,Repository_OK
+Andhar1,Home_OK,GitUser_OK,Repository_OK
 andrewsavero13,Home_OK,GitUser_OK,Repository_OK
 arielmikiabraham,Home_OK,GitUser_OK,Repository_OK
 atikahzh,Home_OK,GitUser_OK,Repository_OK
@@ -14,10 +16,12 @@ ernest-anderson,Home_OK,GitUser_OK,Repository_OK
 ErzaAkbar,Home_OK,GitUser_OK,Repository_OK
 FpVariel,Home_OK,GitUser_OK,Repository_OK
 fwrhine,Home_OK,GitUser_OK,Repository_OK
+gheafanywp,Home_OK,GitUser_OK,Repository_OK
 ichlaffterlalu,Home_OK,GitUser_OK,Repository_OK
 ifdhalsuharmitan,Home_OK,GitUser_OK,Repository_OK
 megafahtia,Home_OK,GitUser_OK,Repository_OK
 mfauzanf,Home_OK,GitUser_OK,Repository_OK
+mochaul,Home_OK,GitUser_OK,Repository_OK
 muhazrisofyan,Home_OK,GitUser_OK,Repository_OK
 nabilafakhirah,Home_OK,GitUser_OK,Repository_OK
 NaomiRiana,Home_OK,GitUser_OK,Repository_OK
