@@ -1,3 +1,4 @@
+A-Bayusuto,Home_OK,GitUser_OK,Repository_OK
 adrika-novrialdi,Home_OK,GitUser_OK,Repository_OK
 afriliadvi,Home_OK,GitUser_OK,Repository_OK
 agasyan,Home_OK,GitUser_OK,Repository_OK
@@ -51,6 +52,7 @@ naomiolgapanjaitan,Home_OK,GitUser_OK,Repository_OK
 NaomiRiana,Home_OK,GitUser_OK,Repository_OK
 NaufalOS17,Home_OK,GitUser_OK,Repository_OK
 naulnauli,Home_OK,GitUser_OK,Repository_OK
+nuriilmi,Home_OK,GitUser_OK,Repository_OK
 nurulswr29,Home_OK,GitUser_OK,Repository_OK
 okusakun,Home_OK,GitUser_OK,Repository_OK
 rahmaputrianasari,Home_OK,GitUser_OK,Repository_OK
@@ -66,6 +68,7 @@ Sibaho,Home_OK,GitUser_OK,Repository_OK
 sofyanhadi-mr,Home_OK,GitUser_OK,Repository_OK
 spectrum71,Home_OK,GitUser_OK,Repository_OK
 swastinikanaima,Home_OK,GitUser_OK,Repository_OK
+syahbima,Home_OK,GitUser_OK,Repository_OK
 vincentiusadityas,Home_OK,GitUser_OK,Repository_OK
 wildanazz,Home_OK,GitUser_OK,Repository_OK
 WildanFahmi,Home_OK,GitUser_OK,Repository_OK
