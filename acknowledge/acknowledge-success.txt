@@ -15,10 +15,12 @@ atikahzh,Home_OK,GitUser_OK,Repository_OK
 azharkurnia,Home_OK,GitUser_OK,Repository_OK
 bagussurya109,Home_OK,GitUser_OK,Repository_OK
 bimanugraha,Home_OK,GitUser_OK,Repository_OK
+cadelicious,Home_OK,GitUser_OK,Repository_OK
 Daninsky,Home_OK,GitUser_OK,Repository_OK
 davidtompul,Home_OK,GitUser_OK,Repository_OK
 dfd19,Home_OK,GitUser_OK,Repository_OK
 dwinanda09,Home_OK,GitUser_OK,Repository_OK
+Elvanovandi,Home_OK,GitUser_OK,Repository_OK
 ernest-anderson,Home_OK,GitUser_OK,Repository_OK
 ErzaAkbar,Home_OK,GitUser_OK,Repository_OK
 farhanraa,Home_OK,GitUser_OK,Repository_OK
@@ -54,9 +56,11 @@ okusakun,Home_OK,GitUser_OK,Repository_OK
 rahmaputrianasari,Home_OK,GitUser_OK,Repository_OK
 raiindhira,Home_OK,GitUser_OK,Repository_OK
 rehanhwr,Home_OK,GitUser_OK,Repository_OK
+Rezady,Home_OK,GitUser_OK,Repository_OK
 royya22,Home_OK,GitUser_OK,Repository_OK
 ryannaufalp,Home_OK,GitUser_OK,Repository_OK
 rzieggy,Home_OK,GitUser_OK,Repository_OK
+SanHolo101,Home_OK,GitUser_OK,Repository_OK
 satrioui,Home_OK,GitUser_OK,Repository_OK
 Sibaho,Home_OK,GitUser_OK,Repository_OK
 sofyanhadi-mr,Home_OK,GitUser_OK,Repository_OK
