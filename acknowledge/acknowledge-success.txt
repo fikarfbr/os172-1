@@ -18,6 +18,7 @@ bagussurya109,Home_OK,GitUser_OK,Repository_OK
 bimanugraha,Home_OK,GitUser_OK,Repository_OK
 cadelicious,Home_OK,GitUser_OK,Repository_OK
 Daninsky,Home_OK,GitUser_OK,Repository_OK
+davidjuntak,Home_OK,GitUser_OK,Repository_OK
 davidtompul,Home_OK,GitUser_OK,Repository_OK
 dfd19,Home_OK,GitUser_OK,Repository_OK
 dipoa,Home_OK,GitUser_OK,Repository_OK
@@ -77,6 +78,7 @@ syahbima,Home_OK,GitUser_OK,Repository_OK
 vincentiusadityas,Home_OK,GitUser_OK,Repository_OK
 wildanazz,Home_OK,GitUser_OK,Repository_OK
 WildanFahmi,Home_OK,GitUser_OK,Repository_OK
+windasimanjuntak,Home_OK,GitUser_OK,Repository_OK
 yogineadjie,Home_OK,GitUser_OK,Repository_OK
 yurisasc,Home_OK,GitUser_OK,Repository_OK
 ZidaneZaffar,Home_OK,GitUser_OK,Repository_OK
