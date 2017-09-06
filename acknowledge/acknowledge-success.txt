@@ -10,6 +10,7 @@ amiraluthfia,Home_OK,GitUser_OK,Repository_OK
 andestap73,Home_OK,GitUser_OK,Repository_OK
 Andhar1,Home_OK,GitUser_OK,Repository_OK
 andrewsavero13,Home_OK,GitUser_OK,Repository_OK
+anggrafazza,Home_OK,GitUser_OK,Repository_OK
 arielmikiabraham,Home_OK,GitUser_OK,Repository_OK
 arkha98,Home_OK,GitUser_OK,Repository_OK
 atikahzh,Home_OK,GitUser_OK,Repository_OK
