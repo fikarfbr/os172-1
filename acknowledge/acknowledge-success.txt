@@ -57,12 +57,14 @@ naomiolgapanjaitan,Home_OK,GitUser_OK,Repository_OK
 NaomiRiana,Home_OK,GitUser_OK,Repository_OK
 NaufalOS17,Home_OK,GitUser_OK,Repository_OK
 naulnauli,Home_OK,GitUser_OK,Repository_OK
+nazriarahmi,Home_OK,GitUser_OK,Repository_OK
 nuriilmi,Home_OK,GitUser_OK,Repository_OK
 nurulswr29,Home_OK,GitUser_OK,Repository_OK
 okusakun,Home_OK,GitUser_OK,Repository_OK
 rahmaputrianasari,Home_OK,GitUser_OK,Repository_OK
 raiindhira,Home_OK,GitUser_OK,Repository_OK
 regensa18,Home_OK,GitUser_OK,Repository_OK
+reginacarla,Home_OK,GitUser_OK,Repository_OK
 rehanhwr,Home_OK,GitUser_OK,Repository_OK
 Rezady,Home_OK,GitUser_OK,Repository_OK
 royya22,Home_OK,GitUser_OK,Repository_OK
